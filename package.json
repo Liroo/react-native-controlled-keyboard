@@ -1,0 +1,35 @@
+{
+  "name": "react-native-controlled-keyboard",
+  "version": "1.0.0",
+  "description": "A keyboard component for react-native which could be controlled",
+  "main": "./index.js",
+  "license": "MIT",
+  "keywords": [
+    "keyboard",
+    "text",
+    "react native"
+  ],
+  "files": [
+    "lib",
+    "README.md",
+    "LICENSE"
+  ],
+  "author": "Pierre Monge <pierre.monge@epitech.eu>",
+  "maintainers": [
+    "Pierre Monge <pierre.monge@epitech.eu>"
+  ],
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Liroo/react-native-controlled-keyboard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Liroo/react-native-controlled-keyboard/issues"
+  },
+  "peerDependencies": {
+    "react": ">=15.3.1",
+    "react-native": ">=0.35"
+  }
+}
